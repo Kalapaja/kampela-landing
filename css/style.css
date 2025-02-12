@@ -286,7 +286,10 @@ a.underline:hover::before{
     display: flex;
 }
 
-
+.privacy-policy-container{
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
 /* FIRST SCREEN */
 
 .headline{
